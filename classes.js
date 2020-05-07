@@ -18,6 +18,14 @@ function one () {
   one.classList.add('blue')
 }
 
+function two () {
+
+  var one = document.getElementById('two')
+
+  two.classList.add('green')
+
+}
+
 // CREATE FUNCTION two HERE
 
 // CREATE FUNCTION three HERE
