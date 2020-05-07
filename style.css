@@ -29,6 +29,10 @@ div {
   background-color: red;
 }
 
+.light-blue {
+  background-color: cornflowerblue;
+}
+
 .invisible {
   display: none;
 }
