@@ -11,6 +11,8 @@ function start () {
   two()
 
   three()
+
+  makeVisible()
 }
 
 function one () {
