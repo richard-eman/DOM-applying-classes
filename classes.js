@@ -21,7 +21,7 @@ function one () {
 
 function two () {
 
-  var one = document.getElementById('two')
+  var two = document.getElementById('two')
 
   two.classList.add('green')
 }
